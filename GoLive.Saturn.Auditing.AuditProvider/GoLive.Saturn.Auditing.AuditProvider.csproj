@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Audit.NET.MongoDB" Version="14.5.6" />
+    <PackageReference Include="GoLive.Saturn.Data.Abstractions" Version="1.0.87" />
+  </ItemGroup>
+
+</Project>
